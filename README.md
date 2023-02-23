@@ -3,7 +3,11 @@ Convert Open Images annotations into MS Coco format.
 
 # Open Image - Object Detection dataset #
 
-our dataset:[OID](https://storage.googleapis.com/openimages/web/index.html)
+about Open image dataset:[OID](https://storage.googleapis.com/openimages/web/index.html)
+Open Images is a dataset of ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives:
+
+it contains over 15 millions bbounding boxes on 600 classes and 2 millions instance segmentations on 350 classes.
+
 
 
 
