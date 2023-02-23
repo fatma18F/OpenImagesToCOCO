@@ -1,3 +1,6 @@
+Convert Open Images annotations into MS Coco format.
+
+
 # Open Image - Object Detection dataset #
 
 our dataset:[OID](https://storage.googleapis.com/openimages/web/index.html)
